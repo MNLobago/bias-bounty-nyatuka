@@ -1,0 +1,8 @@
+# challenge data is not redistributed
+data/
+
+# rebuilt by solution.py
+solve/cache/
+solve/branches/
+__pycache__/
+*.log

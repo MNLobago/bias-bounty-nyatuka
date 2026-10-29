@@ -1,0 +1,306 @@
+{
+ "solve_20261014_214157": {
+  "sha256": "87541c1ab32f299fbd9daec761164d1b019b6eaa8bbaa72ed1afdf52502235df",
+  "zindi_id": "TmmNHaWT",
+  "public_rmse": 0.074282667,
+  "provenance": "copy of submissions/solve_20261014_214157.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261014_073956": {
+  "sha256": "a90ae52d5132cb26f41dee533c0809e1836f231bfa67aafe1cab376cf0b5f005",
+  "zindi_id": "LyqEdKJQ",
+  "public_rmse": 0.074285949,
+  "provenance": "copy of submissions/solve_20261014_073956.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261014_063617": {
+  "sha256": "4f87e667334b6a5cb2419b07d4d6d26d3303f39c72e8353e2241135f7580aec9",
+  "zindi_id": "9hF3iUcC",
+  "public_rmse": 0.074262652,
+  "provenance": "copy of submissions/solve_20261014_063617.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261013_071255": {
+  "sha256": "2d469a49106ddf15b4cbf4323619b10f669322e605b155089876b57d71cf99b4",
+  "zindi_id": "hyHXFH9y",
+  "public_rmse": 0.072426302,
+  "provenance": "copy of submissions/solve_20261013_071255.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261013_081039": {
+  "sha256": "b599bbd6d286a20548fe55c9ebf04177c8a6706ca285075283c615f48fb7e061",
+  "zindi_id": "vZgad2vq",
+  "public_rmse": 0.071066367,
+  "provenance": "copy of submissions/solve_20261013_081039.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261013_085629": {
+  "sha256": "293d49bdf562abea00f87262de1c569901b4352e0f4a1c4927bda0cb85af3b5d",
+  "zindi_id": "UKs1KogZ",
+  "public_rmse": 0.070940836,
+  "provenance": "copy of submissions/solve_20261013_085629.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20260929_230559": {
+  "sha256": "88b4bf58517fac7e5a1b322a58dd9d2045808b185f6cca1b9b5288f1f5520b46",
+  "zindi_id": null,
+  "public_rmse": 0.089045,
+  "provenance": "copy of submissions/solve_20260929_230559.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20260930_100608": {
+  "sha256": "9d9187f902cfa938f72a359599933998c1eddfb33936c3c8005484559aaea5e2",
+  "zindi_id": null,
+  "public_rmse": 0.088678,
+  "provenance": "copy of submissions/solve_20260930_100608.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261003_103802": {
+  "sha256": "68e76bf1edebfe1a52c66be7e39ed5284ff96c1b571410759e50cea0c552e2b5",
+  "zindi_id": null,
+  "public_rmse": 0.087588,
+  "provenance": "copy of submissions/solve_20261003_103802.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261003_110129": {
+  "sha256": "bf8ec3ef87629e941291a5668a91e7c047e12b40acc6db2aab97d445a1c447fe",
+  "zindi_id": null,
+  "public_rmse": 0.088535,
+  "provenance": "copy of submissions/solve_20261003_110129.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261003_113511": {
+  "sha256": "9190c523bd26e7a7dd43b3d8ea966c6ba44669325ea712cd1b1a82b98232f4d4",
+  "zindi_id": "qZKMFJke",
+  "public_rmse": 0.088338838,
+  "provenance": "copy of submissions/solve_20261003_113511.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261008_094350": {
+  "sha256": "2db572c75f6c825a4f2d645f7a0a4650bb6d142cc586c303991612d23a47d40e",
+  "zindi_id": "MtL2qt42",
+  "public_rmse": 0.088297931,
+  "provenance": "copy of submissions/solve_20261008_094350.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261008_110224": {
+  "sha256": "2dcce63d84f492231e870f70621f16093d6e16503f5a7d31ae8e125adb1cadf9",
+  "zindi_id": "qNbaCLR7",
+  "public_rmse": 0.08829535,
+  "provenance": "copy of submissions/solve_20261008_110224.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261009_051508": {
+  "sha256": "a31296c3998c13f89ce19d1a2307c76c92644c746a165eddc716a2f42cf71397",
+  "zindi_id": "i5mVk2NN",
+  "public_rmse": 0.087277262,
+  "provenance": "copy of submissions/solve_20261009_051508.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261009_052443": {
+  "sha256": "d46df63e30ba5578956da7c83c4a0613168cc1a00ae5a1472600521d8353f5f8",
+  "zindi_id": "5uyntquT",
+  "public_rmse": 0.0879169,
+  "provenance": "copy of submissions/solve_20261009_052443.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261012_172121": {
+  "sha256": "f996ac3020173bda5c7b21f4e2b18ba4dcb1a228844296428e3fc45ac5073fc8",
+  "zindi_id": "vaJv2Fvq",
+  "public_rmse": 0.076387314,
+  "provenance": "copy of submissions/solve_20261012_172121.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261012_202829": {
+  "sha256": "d373589ebc600873eda1ca46699484bdec1247b6fc67f794ecd59344c57b11dc",
+  "zindi_id": "Pn8DMocC",
+  "public_rmse": 0.07624462,
+  "provenance": "copy of submissions/solve_20261012_202829.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261012_204739": {
+  "sha256": "b75691a362cbe69386cda2260a34a466b80a387a96ae22b0218b9395f0dd6b64",
+  "zindi_id": "LjwrZ7A1",
+  "public_rmse": 0.076258984,
+  "provenance": "copy of submissions/solve_20261012_204739.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261012_221927": {
+  "sha256": "0b1cbd7c4927cdb5a89fdca96726bec8d2b819818586177965e7be2e10f2d2d8",
+  "zindi_id": "iDnKjRto",
+  "public_rmse": 0.074827456,
+  "provenance": "copy of submissions/solve_20261012_221927.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261013_001312": {
+  "sha256": "9e6ab8d7fd165dda0b9fc39eeabdd43c30abe66b5b111a091bc30063762228df",
+  "zindi_id": "5PtuLnWR",
+  "public_rmse": 0.077244169,
+  "provenance": "copy of submissions/solve_20261013_001312.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261013_064846": {
+  "sha256": "e9b5a23ee8d5ffe8cf46387bb8be0c9247c8498bf80ffc080b016ad22934b168",
+  "zindi_id": "sCHG2exx",
+  "public_rmse": 0.075295572,
+  "provenance": "copy of submissions/solve_20261013_064846.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261015_010924": {
+  "sha256": "996dc4fb350d4010b3a46f89ad985c54ae211822e5f5c9c413c9be94e088da6a",
+  "zindi_id": "rx2qt4eq",
+  "public_rmse": 0.070285126,
+  "provenance": "copy of submissions/solve_20261015_010924.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261015_030516": {
+  "sha256": "e41af6f54aa413cff602e8ff06d824fce0321483cfeeae18ed1dd80cdebc73b6",
+  "zindi_id": "gW3UpaPv",
+  "public_rmse": 0.070270735,
+  "provenance": "copy of submissions/solve_20261015_030516.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "model_r37": {
+  "sha256": "c4e13e4cf585bce2dea50f87af4905e2856f13cf5878636eb72daed895b9da48",
+  "zindi_id": "LsAZUqf9",
+  "public_rmse": 0.072998285,
+  "provenance": "round-37 submission_model_only.csv as submitted (LsAZUqf9)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "solve_20261015_062710": {
+  "sha256": "179f456230c6ffb9b446e533cdc904a617a0032cfb3d340e1aa022785095a0f7",
+  "zindi_id": "sUfHJRYA",
+  "public_rmse": 0.06888264,
+  "provenance": "copy of submissions/solve_20261015_062710.csv (value columns identical: True)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "model_r38": {
+  "sha256": "0614f5c5c9b1b62b74302d674db52123c4a6ac708408804afb8363c7591f5439",
+  "zindi_id": "aVgKQFuQ",
+  "public_rmse": 0.072785532,
+  "provenance": "round-38 submission_model_only.csv = submissions/ready_2026-10-16_round38 (aVgKQFuQ)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "recal_r37base": {
+  "sha256": "db3a79b3af48653814c37647a6fa09fd7e3b7e9e38f5f1d66eadcc9a52238f49",
+  "zindi_id": "ohmSMRt2",
+  "public_rmse": 0.068800347,
+  "provenance": "round-38 submission_recalibrated_r37base.csv as submitted (ohmSMRt2)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "calib_r38": {
+  "sha256": "e0ef732326025b9411542918259b3c52678a5f6cfda4cf5c3f278739ed3da093",
+  "zindi_id": "hVuTXact",
+  "public_rmse": 0.068756725,
+  "provenance": "copy of submissions/solve_20261016_080744.csv (round-39 submission.csv: round-38 weights, scored model r38 in place of the r37 base)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "reblend_r42": {
+  "sha256": "5b7208326aec1802b1fe5c2593ca1efbb33627c717e038267c793b03611b6e13",
+  "zindi_id": "nTDdgFN5",
+  "public_rmse": 0.068447225,
+  "provenance": "copy of submissions/solve_20261016_132404.csv (round-42 submission.csv: anchored 3-weight re-blend of hVuTXact)",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "model_only_before_r74": {
+  "file": "r75_scored_model_only_before_r74.csv",
+  "sha256": "9205580abb9a6eed2675e103e25d4df4effee4a142a9f26e04d301ad8e2ed6fd",
+  "zindi_id": null,
+  "public_rmse": 0.072644582,
+  "provenance": "round 75: transport branch's round-72 model-only file (2,000 draws), scored 2026-10-23 00:14",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "model_only_r74_boundary": {
+  "file": "r75_scored_model_only_r74_boundary.csv",
+  "sha256": "f6bebd8a491f4f185038637a6bb2f002061a5b9af44359242debf934e5ea118d",
+  "zindi_id": null,
+  "public_rmse": 0.071880362,
+  "provenance": "round 75: the same file + the round-74 boundary delta, scored 2026-10-23 00:16",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "fire_detail_r74": {
+  "file": "r75_scored_fire_detail_r74_QnXggdHt.csv",
+  "sha256": "a5c3b5e4ba8b5f26379b40efe18d5baecf00e48f88b2eb3998aa9df86f843853",
+  "zindi_id": "QnXggdHt",
+  "public_rmse": 0.067271438,
+  "provenance": "round 75: round-74 calibrated file (submission.csv), scored 2026-10-22 12:51",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "ems_helipad_r72": {
+  "file": "r75_scored_ems_helipad_r72.csv",
+  "sha256": "9111541b32b6e42004d81880f5bc33c13bd4eb9e0b30a4f30a1e8ad8b01f0db0",
+  "zindi_id": null,
+  "public_rmse": 0.067326971,
+  "provenance": "round 75: solve_20261022_102701, round-72 calibrated file, scored 2026-10-22 10:39",
+  "role": "immutable input: scored file as submitted (score in a LEADERBOARD_ assignment)"
+ },
+ "upload_solve_20261009_051508": {
+  "file": "upload_solve_20261009_051508.csv",
+  "sha256": "a31296c3998c13f89ce19d1a2307c76c92644c746a165eddc716a2f42cf71397",
+  "zindi_id": "i5mVk2NN",
+  "public_rmse": 0.087277262,
+  "role": "immutable input (round 78): uploaded file as submitted, movement report only",
+  "code_variable": "PARENT_PATH",
+  "provenance": "byte copy of submissions/solve_20261009_051508.csv"
+ },
+ "upload_solve_20261013_085629": {
+  "file": "upload_solve_20261013_085629.csv",
+  "sha256": "293d49bdf562abea00f87262de1c569901b4352e0f4a1c4927bda0cb85af3b5d",
+  "zindi_id": "UKs1KogZ",
+  "public_rmse": 0.070940836,
+  "role": "immutable input (round 78): uploaded file as submitted, movement report only",
+  "code_variable": "PREVIOUS_PATH",
+  "provenance": "byte copy of submissions/solve_20261013_085629.csv"
+ },
+ "upload_solve_20261021_121631": {
+  "file": "upload_solve_20261021_121631.csv",
+  "sha256": "46f10537b679881365555b0aa0ac2656922444cd5028ac4cccba38cc2e9716a6",
+  "zindi_id": "JH7EE7Pt",
+  "public_rmse": 0.067359313,
+  "role": "immutable input (round 78): uploaded file as submitted, round 63: exact-reproduction check",
+  "code_variable": "R63_UPLOAD_PATH",
+  "provenance": "byte copy of submissions/solve_20261021_121631.csv"
+ },
+ "upload_solve_20261021_115104": {
+  "file": "upload_solve_20261021_115104.csv",
+  "sha256": "7b8dcb82caeefc6a6da41217fa2f9a67efd8292c23124728ffbf8444ba3307e1",
+  "zindi_id": "pkX7igai",
+  "public_rmse": 0.067439814,
+  "role": "immutable input (round 78): uploaded file as submitted, round 61: exact-reproduction check",
+  "code_variable": "R61_UPLOAD_PATH",
+  "provenance": "byte copy of submissions/solve_20261021_115104.csv"
+ },
+ "upload_solve_20261020_232948": {
+  "file": "upload_solve_20261020_232948.csv",
+  "sha256": "bc9502731f707570235dbd3340629a804338844f548cbcbc3d2294b0826be976",
+  "zindi_id": "WJGfkQRU",
+  "public_rmse": 0.068357242,
+  "role": "immutable input (round 78): uploaded file as submitted, round 57: exact-reproduction check",
+  "code_variable": "WJG_SCORED_PATH",
+  "provenance": "byte copy of submissions/solve_20261020_232948.csv"
+ },
+ "upload_solve_20261021_223342": {
+  "file": "upload_solve_20261021_223342.csv",
+  "sha256": "8b71a6bf501e2a95f19491eeee9d68e906dfd39b34663de42c165d971edd9874",
+  "zindi_id": "9yuTgVVt",
+  "public_rmse": 0.06760576,
+  "role": "immutable input (round 78): uploaded file as submitted, round 67: the scored school-recall direction",
+  "code_variable": "R66_UPLOAD_PATH",
+  "provenance": "byte copy of submissions/solve_20261021_223342.csv"
+ },
+ "model_only_r77_cbp_business": {
+  "file": "r78_scored_model_only_r77_cbp_business.csv",
+  "sha256": "3524c53e545552f906544a37cbebce7c30f47a090c2137890b1bf0516be5376f",
+  "zindi_id": null,
+  "public_rmse": 0.0711648,
+  "role": "immutable input (round 78): scored measurement file, base of the adopted R77 direction",
+  "provenance": "round-77 submission_model_only_r77_cbp_business.csv as uploaded 2026-10-23 15:59 (scored M0 + R77 CBP delta)"
+ },
+ "solve_20261024_005229": {
+  "sha256": "577fd38c94327882ab54aec591966e73629df8de6290e6cc06ed5b0bb367c9e5",
+  "zindi_id": "gvt3J1jF",
+  "public_rmse": 0.067182708,
+  "provenance": "copy of submissions/solve_20261024_005229.csv (the R91 upload, byte-identical)",
+  "role": "immutable input: the R91 scored upload, restored when a rebuild differs in the last decimal"
+ }
+}
